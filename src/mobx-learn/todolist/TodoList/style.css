@@ -1,0 +1,18 @@
+
+
+.todo-list {
+    margin: 15px;
+}
+
+
+.todo-input,.todo-button {
+    height: 25px;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.todo-button{
+    margin-left: 15px;
+    width: auto;
+}
